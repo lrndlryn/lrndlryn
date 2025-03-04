@@ -1,4 +1,4 @@
-# Raiyan Bin Sarwar
+# Loren Dela Reyna
 Welcome to my personal portfolio! I am self teaching myself Cloud Computing. I'm starting my Journey by accquiring these following certificates:
 
 AWS Certified Cloud Practitioner (or equivalent Azure/GCP cert)
