@@ -1,3 +1,4 @@
+theme: Hacker
 # Loren Dela Reyna
 Welcome to my personal portfolio! I am self teaching myself Cloud Computing. I'm starting my Journey by accquiring these following certificates:
 
