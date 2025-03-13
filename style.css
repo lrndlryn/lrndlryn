@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background: #151515 url(../images/bkg.png) 0 0;
     color: #b5e853;
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
     display: flex;
