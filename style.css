@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: #b5e853;
+    font-family: sans-serif; /* Or your preferred font-family */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensure full viewport height */
+    margin: 0; /* Remove default body margin */
+}
+
+body > * {
+    max-width: 800px; /* Adjust as needed for content width */
+    padding: 20px;
+    box-sizing: border-box; /* Include padding in element's total width and height */
+    width: 100%; /* Make content take full width of parent */
+}
+
+embed {
+    width: 100%; /* Make embeds responsive */
+    height: 600px; /* Adjust height as needed */
+    margin-bottom: 20px;
+}
+
+a {
+  color: #b5e853; /*keeps links the same color as the text*/
+}
