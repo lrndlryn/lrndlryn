@@ -21,7 +21,7 @@ My current goal is to enter the field of Information Technologies so I can gain 
 
 
 ## Other Certificates
-** University of Toronto School of Continued Studies, Toronto ON ** — Computer Programming Bootcamp Certification
+__University of Toronto School of Continued Studies, Toronto ON__ — Computer Programming Bootcamp Certification
 
  * Extensive training in programming fundamentals including languages, algorithms, data structures, and development          methodologies.
  * Proficiency in Python, HTML, CSS, JavaScript, version control, and debugging techniques, reinforced through practical     projects and coding exercises.
