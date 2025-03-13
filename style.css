@@ -9,7 +9,7 @@ body {
     margin: 0;
 }
 
-h1, h2, h3, embed, p { /* Apply styling to specific elements */
+h1, embed, p { /* Apply styling to specific elements */
     max-width: 800px;
     width: 90%;
     padding: 20px;
