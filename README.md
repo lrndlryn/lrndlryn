@@ -20,10 +20,10 @@ My current goal is to enter the field of Information Technologies so I can gain 
 [Azure Virtual Machine](/cloudProjects.html#azure-vm-header)
 
 ## Certificates of Completion
-* [AWS Lambda Foundation](/cloudCredentials.html#aws-lambda-foundation-header)
-* [AWS Getting into the Serverless Mindset](/cloudCredentials.html#Serverless-mindset-header)
-* [AWS Job Roles in the Cloud](/cloudCredentials.html#cloud-job-roles-header)
-* [AWS Designing Event-Driven Architectures](/cloudCredentials.html#cloud-design-header)
+[AWS Lambda Foundation](/cloudCredentials.html#aws-lambda-foundation-header)
+[AWS Getting into the Serverless Mindset](/cloudCredentials.html#Serverless-mindset-header)
+[AWS Job Roles in the Cloud](/cloudCredentials.html#cloud-job-roles-header)
+[AWS Designing Event-Driven Architectures](/cloudCredentials.html#cloud-design-header)
 
 ## Other Certificates
 __University of Toronto School of Continued Studies, Toronto ON__ — Computer Programming Boot-camp Certification
