@@ -1,5 +1,5 @@
 body {
-    background: #151515 url(https://lrndlryn.github.io/lrndlryn/assets/images/bkg.png) 0 0;
+    background: #151515 url(/assets/images/bkg.png) 0 0;
     color: #b5e853;
     font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
     display: flex;
