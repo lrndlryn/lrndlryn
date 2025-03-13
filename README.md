@@ -1,11 +1,5 @@
 # Loren Dela Reyna
 
-E-mail: lrndlryn@gmail.com
-
-Phone: (647) 568-5416
-
-
-
 Welcome to my personal portfolio! I am learning Cloud Computing and starting my Journey by accquiring these following certificates:
 
 
