@@ -12,11 +12,11 @@ CompTIA Cloud+
 My current goal is to enter the field of Information Technologies so I can gain experience in a professional IT setting. 
 
 ## Personal Projects
-[Creating AWS Virutal Machine](/cloudProjects.html/h1)
+[Creating AWS Virutal Machine](/cloudProjects.html-h1)
 
-[AWS Routing and IP Tables](/cloudProjects.html/h2)
+[AWS Routing and IP Tables](/cloudProjects.html-h2)
 
-[Azure Virtual Machine](/cloudProjects.html/h3)
+[Azure Virtual Machine](/cloudProjects.html-h3)
 
 ## Other Personal Projects (Web Developing)
 [Train Scheduler](https://ldelareyna.github.io/Firebase-Assignment---Train-Scheduler-/)
