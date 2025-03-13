@@ -5,7 +5,9 @@ E-mail: lrndlryn@gmail.com
 Phone: (647) 568-5416
 
 
+
 Welcome to my personal portfolio! I am learning Cloud Computing and starting my Journey by accquiring these following certificates:
+
 
 
 AWS Certified Cloud Practitioner (or equivalent Azure/GCP cert)
@@ -17,7 +19,9 @@ Google Cloud Digital Leader
 CompTIA Cloud+
 
 
+
 My current goal is to enter the field of Information Technologies so I can gain experience in a professional IT setting. 
+
 
 
 ## Personal Projects
@@ -26,6 +30,7 @@ My current goal is to enter the field of Information Technologies so I can gain 
 [AWS Routing and IP Tables](/cloudProjects.html#aws-routing-iptables-header)
 
 [Azure Virtual Machine](/cloudProjects.html#azure-vm-header)
+
 
 
 ## Other Personal Projects (Web Developing)
