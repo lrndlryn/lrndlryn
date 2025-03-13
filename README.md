@@ -9,10 +9,14 @@ Google Cloud Digital Leader
 
 CompTIA Cloud+
 
-## About Me
-
-
 ## Skills
+
+## Personal Projects
+[Train Scheduler](https://ldelareyna.github.io/Firebase-Assignment---Train-Scheduler-/)
+[The Psychic Game](https://ldelareyna.github.io/Psychic-Game/)
+[CrystalsCollector](https://ldelareyna.github.io/CrystalsCollector-Game/)
+[Quiz](https://ldelareyna.github.io/Basic-Quiz/)
+[GifTastic](https://ldelareyna.github.io/GifTastic/)
 
 
 ## Contact
