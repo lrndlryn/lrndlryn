@@ -12,7 +12,7 @@ CompTIA Cloud+
 My current goal is to enter the field of Information Technologies so I can gain experience in a professional IT setting. 
 
 ## Personal Projects
-[Creating AWS Virutal Machine](/cloudProjects.html#aws-vm-header)
+[Creating AWS Virutal Machine](/cloudProjects.html)
 
 [AWS Routing and IP Tables](/cloudProjects.html#aws-routing-iptables-header)
 
