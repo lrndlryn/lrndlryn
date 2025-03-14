@@ -25,8 +25,6 @@ My current goal is to enter the field of Information Technologies so I can gain 
 [AWS Job Roles in the Cloud](/cloudCredentials.html#cloud-job-roles-header)
 [AWS Designing Event-Driven Architectures](/cloudCredentials.html#cloud-design-header)
 
----
-
 ## Other Certificates
 __University of Toronto School of Continued Studies, Toronto ON__ — Computer Programming Boot-camp Certification
 
