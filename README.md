@@ -21,8 +21,11 @@ My current goal is to enter the field of Information Technologies so I can gain 
 
 ## Certificates of Completion
 [AWS Lambda Foundation](/cloudCredentials.html#aws-lambda-foundation-header)
+
 [AWS Getting into the Serverless Mindset](/cloudCredentials.html#Serverless-mindset-header)
+
 [AWS Job Roles in the Cloud](/cloudCredentials.html#cloud-job-roles-header)
+
 [AWS Designing Event-Driven Architectures](/cloudCredentials.html#cloud-design-header)
 
 ---
