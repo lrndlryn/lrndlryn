@@ -54,18 +54,22 @@ __University of Toronto School of Continued Studies, Toronto ON__ — Computer P
 _HTML, JavaScript, CSS, Firebase, Moment.j_
  * Built a train schedule web application that retrieves and manipulates train arrival and departure data using Firebase.
  * Utilized Moment.js for real-time updates on train schedules and arrival countdowns
+
 [The Psychic Game](https://ldelareyna.github.io/Psychic-Game/)
 _HTML, JavaScript_
  * Developed a letter-guessing game where users have 9 chances to guess the correct letter.
  * Implemented win/loss tracking and dynamic game state updates.
+
 [CrystalsCollector](https://ldelareyna.github.io/CrystalsCollector-Game/)
 _HTML, JavaScript, CSS_
  * Designed an interactive number-matching game where players collect gems to reach an exact target.
  * Integrated jQuery for real-time HTML updates and game logic management.
+
 [Quiz](https://ldelareyna.github.io/Basic-Quiz/)
 _HTML, JavaScript, CSS_
  * Created a timed Trivia Game with true/false questions.
  * Developed dynamic question tracking and result display using JavaScript and jQuery.
+
 [GifTastic](https://ldelareyna.github.io/GifTastic/)
 _HTML, JavaScript, CSS, Giphy API_
  * Implemented a dynamic GIF search engine allowing users to find and display 10 GIFs of any searched animal.
@@ -75,9 +79,11 @@ _HTML, JavaScript, CSS, Giphy API_
 __Parfums Christian Dior__, Toronto ON— _Perfume Sales Specialist_
 JUNE 2022 - DECEMBER 2023
  * Developed strong communication and client service skills
+
 __Hudsons Bay Company__, Toronto ON— _Beauty Advisor_
 FEBRUARY 2020 - MAY 2022
  * Worked in a fast-paced environment, handling multiple priorities
+
 __United Medical Staffing Agency__, Toronto ON— _Staffing Clerk, Recruitment Clerk, Receptionist_
 MAY 2019 - FEBRUARY 2020
  * Gained experience in administrative management and coordination
