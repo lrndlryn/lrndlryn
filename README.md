@@ -10,10 +10,10 @@ Welcome to my personal portfolio! I am learning Cloud Computing and starting my 
 
  * CompTIA Cloud+
 
-My current goal is to enter the field of Information Technologies so I can gain experience in a professional IT setting. 
+My current goal is to enter the field of Information Technologies so I can gain more experience in a professional IT setting. 
 
 ## IT experience
-__Rotman Research Institute__, Toronto ON— IT Intern
+__Rotman Research Institute__, Toronto ON— _IT Technician_ 
 
 JULY 2024 - SEPTEMBER 2024 (Contract)
 
@@ -42,7 +42,7 @@ JULY 2024 - SEPTEMBER 2024 (Contract)
 ---
 
 ## Other Certificates
-__University of Toronto School of Continued Studies, Toronto ON__ — Computer Programming Boot-camp Certification
+__University of Toronto School of Continued Studies, Toronto ON__ — _Computer Programming Boot-camp Certification_
 
  * Extensive training in programming fundamentals including languages, algorithms, data structures, and development          methodologies.
  * Proficiency in Python, HTML, CSS, JavaScript, version control, and debugging techniques, reinforced through practical     projects and coding exercises.
