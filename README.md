@@ -39,6 +39,8 @@ JULY 2024 - SEPTEMBER 2024 (Contract)
 
 [AWS Designing Event-Driven Architectures](/cloudCredentials.html#cloud-design-header)
 
+[Microsoft: Active Directory Domain Services](/cloudCredentials.html#active-directory-domain-services-header)
+
 ---
 
 ## Other Certificates
